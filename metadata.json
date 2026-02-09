@@ -1,0 +1,7 @@
+{
+  "name": "MechFlow",
+  "description": "Professional AI-driven diagnostic system for coffee machine engineering. Provides technical diagnosis, root cause analysis, and action plans based on machine manuals and technical data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
